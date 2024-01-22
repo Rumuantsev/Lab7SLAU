@@ -1,0 +1,132 @@
+C:\Users\ars13\OneDrive\Рабочий стол\Projects\Sem3\Sem3\bin\Debug\Sem3.exe.config
+C:\Users\ars13\OneDrive\Рабочий стол\Projects\Sem3\Sem3\bin\Debug\Sem3.exe
+C:\Users\ars13\OneDrive\Рабочий стол\Projects\Sem3\Sem3\bin\Debug\Sem3.pdb
+C:\Users\ars13\OneDrive\Рабочий стол\Projects\Sem3\Sem3\obj\Debug\Sem3.csproj.AssemblyReference.cache
+C:\Users\ars13\OneDrive\Рабочий стол\Projects\Sem3\Sem3\obj\Debug\Sem3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ars13\OneDrive\Рабочий стол\Projects\Sem3\Sem3\obj\Debug\Sem3.Form1.resources
+C:\Users\ars13\OneDrive\Рабочий стол\Projects\Sem3\Sem3\obj\Debug\Sem3.Properties.Resources.resources
+C:\Users\ars13\OneDrive\Рабочий стол\Projects\Sem3\Sem3\obj\Debug\Sem3.csproj.GenerateResource.cache
+C:\Users\ars13\OneDrive\Рабочий стол\Projects\Sem3\Sem3\obj\Debug\Sem3.csproj.CoreCompileInputs.cache
+C:\Users\ars13\OneDrive\Рабочий стол\Projects\Sem3\Sem3\obj\Debug\Sem3.exe
+C:\Users\ars13\OneDrive\Рабочий стол\Projects\Sem3\Sem3\obj\Debug\Sem3.pdb
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\Sem3.exe.config
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\Sem3.exe
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\Sem3.pdb
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.MainMenu.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.exe
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.pdb
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\EPPlus.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\System.Buffers.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\System.Memory.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\EPPlus.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\System.Buffers.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\System.Memory.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.csproj.CopyComplete
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.SLAU.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.MNK.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\org.matheval.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.Newton.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\ExcelDataReader.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\ExcelDataReader.pdb
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\ExcelDataReader.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.Sort.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.Spusk.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.Integral.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3\Sem3\obj\Debug\Sem3.Dichotomy.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\Sem3.exe.config
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\Sem3.exe
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\Sem3.pdb
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\EPPlus.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\ExcelDataReader.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\org.matheval.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\System.Buffers.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\System.Memory.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\EPPlus.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\ExcelDataReader.pdb
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\ExcelDataReader.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\System.Buffers.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\System.Memory.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.Dichotomy.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.Integral.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.Spusk.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.Sort.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.Newton.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.SLAU.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.MNK.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.MainMenu.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.csproj.CopyComplete
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.exe
+C:\Users\Михаил\Desktop\Румянцев Арсений Михайлович\Ноутбук\Projects\Sem3q\Sem3\obj\Debug\Sem3.pdb
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\Sem3.exe.config
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\Sem3.exe
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\Sem3.pdb
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\EPPlus.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\EPPlus.Interfaces.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\EPPlus.System.Drawing.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\ExcelDataReader.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\org.matheval.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\System.Buffers.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\System.Memory.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\System.Numerics.Vectors.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\EPPlus.xml
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\ExcelDataReader.pdb
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\ExcelDataReader.xml
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\System.Buffers.xml
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\System.Memory.xml
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\System.Numerics.Vectors.xml
+D:\Ноутбук\Projects\Sem3с\Sem3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.csproj.AssemblyReference.cache
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.csproj.SuggestedBindingRedirects.cache
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.Dichotomy.resources
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.Integral.resources
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.Spusk.resources
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.Sort.resources
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.Newton.resources
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.SLAU.resources
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.MNK.resources
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.MainMenu.resources
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.Properties.Resources.resources
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.csproj.GenerateResource.cache
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.csproj.CoreCompileInputs.cache
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.csproj.CopyComplete
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.exe
+D:\Ноутбук\Projects\Sem3с\Sem3\obj\Debug\Sem3.pdb
